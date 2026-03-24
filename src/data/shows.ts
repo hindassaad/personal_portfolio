@@ -60,7 +60,7 @@ export const shows: Show[] = [
     title: "Vikings",
     category: "s tier",
     rating: 5,
-    note: "Watched this with my parents. Pro tip: don't watch it with yours.",
+    note: "Watched some of this with my parents. Enjoyed it thoroughly.",
   },
   {
     title: "All Her Fault",
