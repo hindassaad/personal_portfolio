@@ -27,7 +27,7 @@ export default function Watchlist() {
 
   return (
     <div className="max-w-xl">
-      <h1 className="text-2xl font-semibold mb-4">watchlist</h1>
+      <h1 className="text-2xl font-semibold mb-2">watchlist</h1>
       <p className="text-[#6e6e6e] text-sm mb-8 leading-relaxed">
         my all-time rankings. s tier means i&apos;d recommend it to anyone, no caveats.
       </p>
