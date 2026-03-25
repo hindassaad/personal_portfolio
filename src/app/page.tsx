@@ -16,7 +16,7 @@ export default function Home() {
           what i&apos;d tell a friend i hadn&apos;t seen in a year.
         </p>
         <p>
-          i&apos;m incoming for my second internship as a software engineer at Shopify, and have previously interned at
+          i&apos;ve previously interned at Shopify,
           Ciena, Jetson Infinity, and Noze. my focus has been on backend and infra - job
           processing, APIs, databases, security tooling - but i&apos;m curious across the stack.
         </p>

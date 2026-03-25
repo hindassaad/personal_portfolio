@@ -11,7 +11,7 @@ export default function Now() {
       <div className="space-y-6 text-[#444] leading-relaxed">
         <div>
           <h2 className="font-semibold mb-2">work</h2>
-          <p> incoming as a software engineering intern at Shopify this Summer 2026.</p>
+          <p> looking for backend/infra swe internships + new grad roles.</p>
         </div>
 
         <div>
