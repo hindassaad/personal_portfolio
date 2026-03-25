@@ -15,8 +15,8 @@ export const metadata: Metadata = { title: "experience" };
 
 export default function Experience() {
   return (
-    <div className="max-w-xl">
-      <h1 className="text-2xl font-semibold mb-8">experience</h1>
+    <div className="max-w-3xl">
+      <h1 className="text-3xl font-semibold mb-8">experience</h1>
 
       <div className="space-y-10">
         {experience.map((entry) => (

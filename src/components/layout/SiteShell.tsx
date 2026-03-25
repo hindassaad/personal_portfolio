@@ -27,7 +27,7 @@ export default function SiteShell({ children }: { children: React.ReactNode }) {
 
       <MobileMenu isOpen={menuOpen} onClose={() => setMenuOpen(false)} />
 
-      <div className="flex max-w-content mx-auto px-6 md:px-8">
+      <div className="flex max-w-content mx-auto px-6 md:px-8 pt-6">
         <Sidebar />
         <main className="flex-1 py-12 min-w-0">
           {children}

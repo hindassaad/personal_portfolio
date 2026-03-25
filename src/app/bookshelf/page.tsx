@@ -26,8 +26,8 @@ export default function Bookshelf() {
   }, {});
 
   return (
-    <div className="max-w-xl">
-      <h1 className="text-2xl font-semibold mb-2">bookshelf</h1>
+    <div className="max-w-3xl">
+      <h1 className="text-3xl font-semibold mb-2">bookshelf</h1>
       <p className="text-[#6e6e6e] text-sm mb-8 leading-relaxed">
         books i&apos;ve read, loosely annotated. sorted by when i read them, most recent first.
       </p>

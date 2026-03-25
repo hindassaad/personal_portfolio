@@ -35,9 +35,9 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
   }
 
   return (
-    <div className="max-w-xl">
+    <div className="max-w-3xl">
       <div className="mb-8">
-        <h1 className="text-2xl font-semibold mb-2">{post.title}</h1>
+        <h1 className="text-3xl font-semibold mb-2">{post.title}</h1>
         <div className="flex gap-3 text-sm text-[#6e6e6e]">
           <time>
             {new Date(post.date).toLocaleDateString("en-US", {

@@ -16,8 +16,8 @@ export const metadata: Metadata = { title: "projects" };
 
 export default function Projects() {
   return (
-    <div className="max-w-xl">
-      <h1 className="text-2xl font-semibold mb-2">projects</h1>
+    <div className="max-w-3xl">
+      <h1 className="text-3xl font-semibold mb-2">projects</h1>
       <p className="text-sm text-[#6e6e6e] mb-8">more projects in the works... </p>
       <div className="space-y-8">
         {projects.map((project) => (

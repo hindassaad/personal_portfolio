@@ -4,8 +4,8 @@ export const metadata: Metadata = { title: "now" };
 
 export default function Now() {
   return (
-    <div className="max-w-xl">
-      <h1 className="text-2xl font-semibold mb-2">now</h1>
+    <div className="max-w-3xl">
+      <h1 className="text-3xl font-semibold mb-2">now</h1>
       <p className="text-sm text-[#6e6e6e] mb-8">last updated march 2026</p>
 
       <div className="space-y-6 text-[#444] leading-relaxed">

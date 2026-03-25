@@ -11,7 +11,7 @@ export const mdxComponents: MDXComponents = {
     <h3 className="text-base font-semibold mt-6 mb-2">{children}</h3>
   ),
   p: ({ children }) => (
-    <p className="mb-4 leading-relaxed">{children}</p>
+    <p className="mb-4 leading-relaxed text-base">{children}</p>
   ),
   a: ({ href, children }) => (
     <a
@@ -24,12 +24,12 @@ export const mdxComponents: MDXComponents = {
     </a>
   ),
   ul: ({ children }) => (
-    <ul className="list-disc list-inside mb-4 space-y-1 text-[#444]">{children}</ul>
+    <ul className="list-disc list-inside mb-4 space-y-1 text-[#444] text-base">{children}</ul>
   ),
   ol: ({ children }) => (
-    <ol className="list-decimal list-inside mb-4 space-y-1 text-[#444]">{children}</ol>
+    <ol className="list-decimal list-inside mb-4 space-y-1 text-[#444] text-base">{children}</ol>
   ),
-  li: ({ children }) => <li className="leading-relaxed">{children}</li>,
+  li: ({ children }) => <li className="leading-relaxed text-base">{children}</li>,
   blockquote: ({ children }) => (
     <blockquote className="border-l-4 border-[#6e6e6e] pl-4 my-4 text-[#6e6e6e] italic">
       {children}

@@ -17,8 +17,8 @@ export default function BlogIndex() {
   const years = Object.keys(byYear).sort((a, b) => Number(b) - Number(a));
 
   return (
-    <div className="max-w-xl">
-      <h1 className="text-2xl font-semibold mb-8">blog</h1>
+    <div className="max-w-3xl">
+      <h1 className="text-3xl font-semibold mb-8">blog</h1>
 
       {posts.length === 0 ? (
         <p className="text-[#6e6e6e] text-sm">no posts yet.</p>

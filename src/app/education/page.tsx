@@ -7,8 +7,8 @@ export const metadata: Metadata = { title: "education" };
 
 export default function Education() {
   return (
-    <div className="max-w-xl">
-      <h1 className="text-2xl font-semibold mb-8">education</h1>
+    <div className="max-w-3xl">
+      <h1 className="text-3xl font-semibold mb-8">education</h1>
 
       <div className="mb-10">
         <div className="flex items-baseline justify-between mb-1">
