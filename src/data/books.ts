@@ -15,7 +15,7 @@ export const books: Book[] = [
     author: "Charles Petzold",
     year: 2023,
     rating: 5,
-    note: "The clearest explanation of how hardware actually works that I've come across.",
+    note: "the clearest explanation of how hardware actually works that i've come across.",
     category: "tech",
   },
   {
@@ -23,7 +23,7 @@ export const books: Book[] = [
     author: "John Green",
     year: 2024,
     rating: 4,
-    note: "Less a coming-of-age story, more a meditation on guilt and the people we can't stop thinking about.",
+    note: "i read this when I was 16.",
     category: "fiction",
   },
   {
@@ -31,7 +31,7 @@ export const books: Book[] = [
     author: "Sally Rooney",
     year: 2024,
     rating: 4,
-    note: "Less about what's said than everything that isn't.",
+    note: "less about what's said than everything that isn't.",
     category: "fiction",
   },
   {
@@ -39,7 +39,7 @@ export const books: Book[] = [
     author: "Stephen King",
     year: 2024,
     rating: 4,
-    note: "King wrote this at 18 and it of shows.",
+    note: "King wrote this at 18 and it kind of shows.",
     category: "fiction",
   },
   {
@@ -47,7 +47,7 @@ export const books: Book[] = [
     author: "Steven D. Levitt & Stephen J. Dubner",
     year: 2023,
     rating: 4,
-    note: "Teaches you to ask why in directions most people don't bother.",
+    note: "teaches you to ask why and stay curious.",
     category: "nonfiction",
   },
   {
@@ -55,7 +55,7 @@ export const books: Book[] = [
     author: "Mark Manson",
     year: 2023,
     rating: 3,
-    note: "The core argument - choose what you care about deliberately - is solid, even if it overstays its welcome.",
+    note: "the core argument - choose what you care about deliberately - is solid, even if it overstays its welcome.",
     category: "nonfiction",
   },
   {
@@ -63,7 +63,7 @@ export const books: Book[] = [
     author: "James Clear",
     year: 2023,
     rating: 4,
-    note: "The ideaology of becoming someone who achieves goals rather than just aiming to achieve a goal was life-changing for me.",
+    note: "the ideaology of becoming someone who achieves goals rather than just aiming to achieve a goal was life-changing for me.",
     category: "nonfiction",
   },
 ];
