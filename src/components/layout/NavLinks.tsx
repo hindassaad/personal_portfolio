@@ -35,7 +35,7 @@ export default function NavLinks({ onLinkClick }: { onLinkClick?: () => void }) 
         );
       })}
       <a
-        href="/resume.pdf"
+        href="/Hind_Asaad_Resume.pdf"
         download="hind_asaad_resume.pdf"
         onClick={onLinkClick}
         className="nav-link text-sm font-semibold py-1 w-fit"
