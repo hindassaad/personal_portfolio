@@ -95,7 +95,7 @@ export const shows: Show[] = [
   {
     title: "The Wire",
     category: "planning to watch",
-    note: "if I'm not wrong, this is widely regarded as one of the best TV shows of all time.",
+    note: "if i'm not wrong, this is widely regarded as one of the best TV shows of all time.",
   },
   {
     title: "Dark",
