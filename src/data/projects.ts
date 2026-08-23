@@ -21,7 +21,6 @@ export const projects: Project[] = [
       "LLM calls monitored and tracked via Helicone",
     ],
     tech: ["Next.js", "TypeScript", "LangGraph", "LangChain", "Supabase", "PostgreSQL", "Pinecone", "Trigger.dev", "Helicone", "Raspberry Pi", "Python"],
-    github: "https://github.com/evan-placenis/DeskHQCapstone/tree/main",
     hardwareDemo: "https://drive.google.com/file/d/1K5DelvGvGw9c-whRpeGsLmQF98n4tl7B/view?resourcekey",
     softwareDemo: "https://drive.google.com/file/d/1yRWzRqrwmCvPgqGJIn1oJBKhYCGeDseb/view?resourcekey",
   },
