@@ -23,6 +23,10 @@ export const mdxComponents: MDXComponents = {
       {children}
     </a>
   ),
+  img: ({ src, alt }) => (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img src={src as string} alt={alt ?? ""} className="w-full max-w-md h-auto rounded my-6 mx-auto" />
+  ),
   ul: ({ children }) => (
     <ul className="list-disc list-inside mb-4 space-y-1 text-[#444] text-base">{children}</ul>
   ),

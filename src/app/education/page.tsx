@@ -59,13 +59,6 @@ export default function Education() {
           <p>
             Mechatronics is a field combining software, electrical, and mechanical engineering.
           </p>
-          <p>
-            It grew out of robotics in 1960s Japan: arms that were rigid and blind became fluid once
-            sensors, controls, and code evolved in tandem. The old design model was sequential: mechanical engineers design it, electrical engineers wire it together, then software engineers
-            figure out how to control it. Mechatronics rejects that handoff. The real discipline is
-            learning to hold all three domains in your head at once - and knowing which one is
-            actually constraining the design.
-          </p>
         </div>
       </div>
     </div>

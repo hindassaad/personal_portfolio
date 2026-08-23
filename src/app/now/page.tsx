@@ -6,12 +6,12 @@ export default function Now() {
   return (
     <div className="max-w-3xl">
       <h1 className="text-3xl font-semibold mb-2">now</h1>
-      <p className="text-sm text-[#6e6e6e] mb-8">last updated march 2026</p>
+      <p className="text-sm text-[#6e6e6e] mb-8">last updated august 2026</p>
 
       <div className="space-y-6 text-[#444] leading-relaxed">
         <div>
           <h2 className="font-semibold mb-2">work</h2>
-          <p> looking for backend/infra swe internships + new grad roles.</p>
+          <p> just wrapped up my internship at shopify. looking for new grad roles in the states + canada.</p>
         </div>
 
         <div>
@@ -29,7 +29,7 @@ export default function Now() {
         <div>
           <h2 className="font-semibold mb-2">otherwise</h2>
           <p>
-            exploring new ways to be active (played squash for the first time), cooking more, trying to be outside when the weather is good.
+            exploring new ways to be active (played pickleball for the first time), cooking more, trying to be outside when the weather is good.
           </p>
         </div>
       </div>
