@@ -13,6 +13,22 @@ export const experience: ExperienceEntry[] = [
   {
     company: "Shopify Inc",
     url: "https://www.shopify.com/ca",
+    role: "Software Engineering Intern, Full Stack",
+    dates: "May 2026 – Aug 2026",
+    location: "Toronto, ON",
+    tech: ["Ruby", "Rails", "GraphQL", "TypeScript", "React Native", "SQL"],
+    bullets: [
+      "Returned as a Software Engineer on the same Retail - Inventory, Search & Fulfillment team",      
+      "Prevented fulfillment of 59.7k+ fraudulent transactions by shipping real-time fraud warnings for Shopify POS",
+      "Brought stock counts to Shopify's point-of-sale app so store staff can count physical inventory & correct system quantities to match, shaping the API contract & building the screen counts run from",
+      "Introduced new permissions & orchestrated backfills across 74M+ records to enable users to perform stock counts",
+      "Led biweekly quality run triage meetings and delegated across engineers three levels senior as the team's most junior engineer",
+      "Achieved team's first single-digit bug count in months by leading quality sprint to resolve 18 high-priority bugs, ship 44 PRs, and cut open reviews from 56 to 7"
+    ],
+  },
+  {
+    company: "Shopify Inc",
+    url: "https://www.shopify.com/ca",
     role: "Software Engineering Intern, Backend",
     dates: "Sep 2025 – Dec 2025",
     location: "Toronto, ON",
